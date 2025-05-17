@@ -1,0 +1,19 @@
+Tipos primitivos:
+
+-Inteiro -> int = 7, -4, 0
+-Real -> float = 4.5, 0.076, 7.0 (ponto flutuante, por causa do ponto)
+-Lógicos -> bool = True ou False
+-Caracter -> str = 'Olá', '7.5', ''
+
+print('A soma vale ()'.format(soma)
+.format() método de formatação de string
+
+método isnumeric() vai dizer se é possível converter um valor com o tipo primitivo inteiro
+
+método isalpha() vai dizer se é alfabético
+
+método isalnum() verifica se é alfabético e numérico
+
+método isupper() se todos estão com letra maiúsculas
+
+vários métodos is são teste de tipos.
