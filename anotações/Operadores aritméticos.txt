@@ -1,0 +1,21 @@
+Operadores aritméticos: 
+
++ adição -> 5 + 2 == 7
+- subtração -> 5 - 2 == 3
+* multiplicação -> 5 * 2 == 10   
+/ divisão -> 5 / 2 == 2.5
+** exponenciação -> 5 ** 2 == 25
+// divisão inteira -> 5 // 2 == 2
+% módulo ou resto da divisão -> 5 % 2 == 1
+
+ordem de precedência:
+ 1 - ()
+ 2 - **
+ 3 - *, /, //, %
+ 4 - +, - 
+ 
+ se tem mais de um na expressão é só fazer na ordem de aparecimento
+ 
+ 
+
+
